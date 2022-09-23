@@ -1,6 +1,6 @@
 # Example 1.12 (np -chart)
 
-![](C:\Users\HP\OneDrive\Desktop\gitwork\np-chart.png)
+![image-20220923053006037](https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220923_1663891208.png)
 
 ## R - Code
 

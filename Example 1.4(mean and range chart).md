@@ -1,6 +1,6 @@
 # Example 1.4(mean and range chart)
 
-![](C:\Users\HP\OneDrive\Desktop\gitwork\xbar%20and%20r%20chart.png)
+![image-20220923052827249](https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220923_1663891109.png)
 
 ## R - Code
 
