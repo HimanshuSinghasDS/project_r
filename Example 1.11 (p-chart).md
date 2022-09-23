@@ -1,6 +1,6 @@
 # Example 1.11 (p-chart)
 
-![](C:\Users\HP\AppData\Roaming\marktext\images\3d6f3c4e7e851f5972b04111e5642c2657282c96.png)
+![image-20220923052317605](https://raw.githubusercontent.com/ydvpratik/img/master/2022/09/upgit_20220923_1663890801.png)
 
 ## R-code
 
