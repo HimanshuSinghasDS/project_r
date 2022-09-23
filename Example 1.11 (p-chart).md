@@ -1,8 +1,6 @@
 # Example 1.11 (p-chart)
 
-![](C:\Users\HP\OneDrive\Desktop\gitwork\p-chart.png)
-
-
+<img src="file:///C:/Users/HP/AppData/Roaming/marktext/images/2022-09-23-05-49-18-image.png" title="" alt="" width="656">
 
 ## R-code
 
@@ -51,9 +49,4 @@ new_lcl_p = new_cl_p - 3*sqrt((new_cl_p*(1-new_cl_p)/n));new_lcl_p
 > new_lcl_p = new_cl_p - 3*sqrt((new_cl_p*(1-new_cl_p)/n));new_lcl_p
 [1] 0.01450048
 > 
-
 ```
-
-
-
-
