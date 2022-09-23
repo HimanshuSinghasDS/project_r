@@ -1,6 +1,6 @@
 # Example 1.11 (p-chart)
 
-![]()<img src="file:///C:/Users/HP/AppData/Roaming/marktext/images/2022-09-23-05-49-18-image.png" title="" alt="" width="656">
+![](C:\Users\HP\AppData\Roaming\marktext\images\3d6f3c4e7e851f5972b04111e5642c2657282c96.png)
 
 ## R-code
 
