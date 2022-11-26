@@ -10,10 +10,6 @@ It consists of codes for following:
 2. Applied Statistics:- Vital Statistics, SQC(Control Charts), Indexing
                         and some Design of Experiment practical.
 
-
-ALL THE CODES MAY NOT BE AVAILABLE AT A TIME, BUT I WILL UPLOAD ALL
-CODES BY MID OCTOBER,2022.
-
 You guys can appriciate my work by following me on this github id.
 
 
