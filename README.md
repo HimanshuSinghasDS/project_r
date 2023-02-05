@@ -14,6 +14,6 @@ You guys can appriciate my work by following me on this github id.
 
 
 ## 🚀 About Me
-I'm a Computer enthusiast and a Student in a University studying bachelor's in Statistics.
+I'm a Computer enthusiast and a Student in a University studying Bachelor's in Statistics.
 
 
